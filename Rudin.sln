@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rudin", "Rudin\Rudin.csproj", "{D1E17C35-C1E2-49AB-AA0A-4F09E0F23C35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RudinTests", "RudinTests\RudinTests.csproj", "{9752BBE3-0A67-4091-810C-DF5BD82A4A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptchaPluginsFramework", "CaptchaPluginsFramework\CaptchaPluginsFramework.csproj", "{0D05B1CC-4C8C-464D-93E8-57DFA7B62B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockCaptchaPlugin", "MockCaptchaPlugin\MockCaptchaPlugin.csproj", "{AC2CC8F2-FDFA-475F-A41E-6468E99C9A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingCaptchaPlugin", "TypingCaptchaPlugin\TypingCaptchaPlugin.csproj", "{7C4AB866-3479-4D62-AAD2-E6445C9E9C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationsCaptchaPlugin", "CalculationsCaptchaPlugin\CalculationsCaptchaPlugin.csproj", "{AE9C9BAF-E4C0-4199-BDAA-1B5E49564B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E17C35-C1E2-49AB-AA0A-4F09E0F23C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E17C35-C1E2-49AB-AA0A-4F09E0F23C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E17C35-C1E2-49AB-AA0A-4F09E0F23C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E17C35-C1E2-49AB-AA0A-4F09E0F23C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9752BBE3-0A67-4091-810C-DF5BD82A4A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9752BBE3-0A67-4091-810C-DF5BD82A4A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9752BBE3-0A67-4091-810C-DF5BD82A4A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9752BBE3-0A67-4091-810C-DF5BD82A4A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D05B1CC-4C8C-464D-93E8-57DFA7B62B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D05B1CC-4C8C-464D-93E8-57DFA7B62B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D05B1CC-4C8C-464D-93E8-57DFA7B62B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D05B1CC-4C8C-464D-93E8-57DFA7B62B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2CC8F2-FDFA-475F-A41E-6468E99C9A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2CC8F2-FDFA-475F-A41E-6468E99C9A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2CC8F2-FDFA-475F-A41E-6468E99C9A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2CC8F2-FDFA-475F-A41E-6468E99C9A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4AB866-3479-4D62-AAD2-E6445C9E9C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4AB866-3479-4D62-AAD2-E6445C9E9C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4AB866-3479-4D62-AAD2-E6445C9E9C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4AB866-3479-4D62-AAD2-E6445C9E9C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9C9BAF-E4C0-4199-BDAA-1B5E49564B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9C9BAF-E4C0-4199-BDAA-1B5E49564B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9C9BAF-E4C0-4199-BDAA-1B5E49564B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9C9BAF-E4C0-4199-BDAA-1B5E49564B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {122E1051-6191-42BC-8A15-A74703456E4D}
+	EndGlobalSection
+EndGlobal
